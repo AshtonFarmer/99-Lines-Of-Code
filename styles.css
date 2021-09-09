@@ -1,0 +1,17 @@
+
+body{
+    background-color: cyan;
+    text-align: center;
+}
+
+h1{
+    color: rgb(216, 35, 35);
+}
+.friend{
+    background-color: rgb(30, 0, 163);
+}
+
+h3{
+    text-transform: uppercase;
+}
+
