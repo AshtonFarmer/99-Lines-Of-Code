@@ -4,14 +4,18 @@ body{
     text-align: center;
 }
 
-h1{
-    color: rgb(216, 35, 35);
-}
-.friend{
-    background-color: rgb(30, 0, 163);
-}
-
-h3{
+#Title99{
+    background-color: rgb(255, 0, 0);
     text-transform: uppercase;
+    text-shadow: 1px 2px 0px gold;
+    border-radius: 20px;
 }
 
+button{
+    background-color: red;
+    border: 5px solid gold;
+    padding: 10px 70px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-style: oblique;
+}
